@@ -1,6 +1,5 @@
-![zoom_app](https://github.com/julien-muke/zoom-app/assets/110755734/58733cd7-0321-4f7a-b29e-cd9db1da9679)
-
 <div align="center">
+![zoom_app](https://github.com/julien-muke/zoom-app/assets/110755734/58733cd7-0321-4f7a-b29e-cd9db1da9679)
   <div>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
