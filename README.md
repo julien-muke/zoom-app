@@ -405,8 +405,8 @@ export default MeetingCard;
 
 </details>
 
-## <a name="links">🔗 Link</a>
+## <a name="links">🔗 Links</a>
 
-- [Live Website](https://jsm-brainwave.com/)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1ofTpWii_sCIdJ14uQ431xWVXpYgjtQ8Q/view?usp=sharing)
 
 #
