@@ -81,12 +81,6 @@ Install the project dependencies using npm:
 npm install
 ```
 
-**Running the Project**
-
-```bash
-npm run dev
-```
-
 **Set Up Environment Variables**
 
 Create a new file named `.env` in the root of your project and add the following content:
