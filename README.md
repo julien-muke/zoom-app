@@ -1,4 +1,5 @@
-![sddefault (1)](https://github.com/julien-muke/zoom-app/assets/110755734/aac9137e-956f-4d02-96cd-cb05a5b322d3)
+![zoom_app](https://github.com/julien-muke/zoom-app/assets/110755734/58733cd7-0321-4f7a-b29e-cd9db1da9679)
+
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
