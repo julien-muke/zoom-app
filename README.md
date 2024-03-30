@@ -1,9 +1,9 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://github.com/julien-muke/zoom-app/assets/110755734/58733cd7-0321-4f7a-b29e-cd9db1da9679" alt="Project Banner">
+      <img src="https://github.com/julien-muke/zoom-app/assets/110755734/608e6d7b-1f82-4387-8999-2c7606a26243" alt="Project Banner">
     </a>
-  
+
   <br />
 
    <div>
